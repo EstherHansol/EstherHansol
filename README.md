@@ -12,4 +12,4 @@
 ## My Work Space
  - 2nd UMC
  
- - CJ UNIT 6
+ - CJ UNIT 6th
