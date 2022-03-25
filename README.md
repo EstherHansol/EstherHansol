@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Yeouido, Seoul.
-🌱 I’m currently interesting on Android, and develops.
+### 🔭 I’m currently working on Yeouido, Seoul.
+### 🌱 I’m currently interesting on Android, and develops.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
