@@ -1,18 +1,13 @@
-### Welcome to my Space! 👋
+# Hi I'm Hansol! 👋
 
-<!--
-**EstherHansol/EstherHansol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
+# Who am I?
+ -🔭 I’m currently working on Yeouido, Seoul.
+ -💬 I’m currently interesting on Android, and develops.
 
-### 🔭 I’m currently working on Yeouido, Seoul.
-### 🌱 I’m currently interesting on Android, and develops.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Work Space
+ - 2nd UMC
+ - CJ UNIT 6
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherHansol&layout=compact)](https://github.com/EshterHansol/github-readme-stats)
 ![EstherHansol's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherHansol&show_icons=true&theme=radical)
