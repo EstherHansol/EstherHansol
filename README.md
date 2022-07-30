@@ -10,6 +10,10 @@
  -💬 I’m currently interesting on Android, and develops.
 
 ## My Work Space
- - 2nd UMC
+ - 2nd UMC - android
  
  - CJ UNIT 6th
+
+ - CJ UNIT TF Team -Metaverse ( Naver ZEP )
+ 
+ - 3rd UMC LEADER
