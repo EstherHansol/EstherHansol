@@ -19,3 +19,5 @@
  - 3rd UMC LEADER
 
  - RC 10th Server
+
+ - KT x AI 경진대회 최우수상(1등) 수상
