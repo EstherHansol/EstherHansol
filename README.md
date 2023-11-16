@@ -7,7 +7,7 @@
 ## Who am I??
  -🔭 I’m currently working on Yeouido, Seoul.
  
- -💬 I’m currently interesting on Android, and develops.
+ -💬 I’m currently interesting on Studying Spring
 
 ## My Work Space
  - 2nd UMC - android
@@ -26,6 +26,6 @@
 
  - AWS 빅데이터 경진대회 TOP7 수상 및 진행중
 
-- 이스트시큐리티 개발센터 AP실 인턴 2022.12..26~ 2023.07.14
+ - 이스트시큐리티 개발센터 AP실 인턴 2022.12..26~ 2023.07.14
    - 해당 인턴 수행 중 만진 코드 및 자료들은 모두 회사 자산이므로 기록되어있지 않습니다.
    - 인턴성과보고경진대회 최우수 수상
